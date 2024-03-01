@@ -8,7 +8,7 @@ Your AI Companion app designed to help you improve your pool game!
 
 ### Problem
 
-As a pool player for 20+ years, I've seen how long it takes in order to be 'good' at the game. It takes time and skill, you start of thinking its all about potting, then you get a level where you learn spin to manipulate the cue ball, but finally for me its pattern play.
+As a pool player for 20+ years, I've seen how long it takes in order to be 'good' at the game. It takes time and skill, you start thinking its all about potting, then you get to a level where you learn spin to manipulate the cue ball, but finally for me (the holy grail) its pattern play.
 
 ### The Idea
 
@@ -20,7 +20,7 @@ Without a doubt AI will rule the world and I'm on a mission to bring this into t
 
 ### The Prospect
 
-How many times have you broke off, knowing you need to ffind the pattern for the finish, and can't find it. What if .... you took a picture of the layout (on any shot mind you, not just the break off) and find out:
+How many times have you broke off, knowing you need to find the pattern for the finish, and can't find it. What if .... you took a picture of the layout (on any shot mind you, not just the break off) and find out:
 
 1. What is the best shot to take? For the best % finish?
 2. What are the viable options? Maybe there's a couple routes?
@@ -52,7 +52,7 @@ I want to store the (x,y) location of every ball on the table. All of the traini
 A snapshot will be taken per shot i.e. shot 1 will have balls x, y, z at positions (x<sub>x</sub>,y<sub>x</sub>),
 (x<sub>y</sub>,y<sub>y</sub>),
 (x<sub>z</sub>,y<sub>z</sub>) .... then shot 2 with balls x, z (since ball y was potted) at (x<sub>x</sub>,y<sub>x</sub>),
-(x<sub>z</sub>,y<sub>z</sub>). We are assuming straight run outs here so every shot will result in ball potted. Then after the run out, the AI will assess which order the balls were taken and store this for a future refernce. Some maths magic has to be implemented here but I will document this later.
+(x<sub>z</sub>,y<sub>z</sub>). We are assuming straight run outs here so every shot will result in ball potted. Then after the run out, the AI will assess which order the balls were taken and store this for a future reference. Some maths magic has to be implemented here but I will document this later.
 
 ### Scenario / Data collection
 
