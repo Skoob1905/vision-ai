@@ -16,7 +16,7 @@ Finding the best pattern is the number 1 most important thing to do on a pool ta
 
 ### Artificial Intelligence
 
-Without a doubt AI will rule the world and I'm on a mission to bring this into the world of Pool, english pool, American 9-Ball/10-Ball, Chinese pool, Billiards the list goes on .... We can produce models, study previous games, train an absolute demon to play pool all so you don't have to. Any decent pool player will know the importance of finding the patterns and only the masters will know how to do it the best way ... so lets make one!
+Without a doubt AI will rule the world and I'm on a mission to bring this into the world of Pool, english pool, American 9-Ball/10-Ball, Chinese pool, Billiards the list goes on .... We can produce models, study previous games, train an absolute demon to play pool and learn fast, all so you dont have to. Any decent pool player will know the importance of finding the patterns and only the masters will know how to do it the best way ... so lets make one!
 
 ### The Prospect
 
