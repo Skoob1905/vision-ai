@@ -40,7 +40,7 @@ Lets just start with something small to see what we can actually achieve, small 
 
 I would like to start with some sort of Object Detection AI which will look at any given table layout and give us the following information?
 
-1. Where are the pockets/cushions (this can be hardcoded as they dont move!, pockets could be labelled Top-Left (TL), Bottom-Right (BR), Middle-Left (ML) etc. etc.)
+1. Where are the pockets/cushions (pockets could be labelled Top-Left (TL), Bottom-Right (BR), Middle-Left (ML) etc. etc.)
 2. Where are the balls on the table between shots
 
 ### Ball Locations
